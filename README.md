@@ -484,14 +484,14 @@ If you find this project useful, please consider giving it a star! ⭐
 ## 📺 Media & Press
 
 - [Demo Video](YOUR_DEMO_VIDEO_LINK)
-- [Project Presentation](YOUR_PRESENTATION_LINK)
-- [Technical Report](YOUR_REPORT_LINK)
+- [Project Presentation](https://docs.google.com/presentation/d/1ALdpK0TK0zDVh8lKRTkG7_l5d4g0igdijzBus36hnO8/edit?usp=sharing)
+- [Technical Report](https://docs.google.com/document/d/1p97cG1PL8hSGCQryvnviUBv7CQ1RVHPi2shH7K5Mjzs/edit?usp=sharing)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Mohammed Khaleel uddin]**
 
 *Empowering creators through AI*
 
