@@ -285,24 +285,9 @@ Output:
 ai-film-editing-tool/
 │
 ├── ai_film_editor.ipynb        # Main Colab notebook
-├── ai_film_editor.py           # Standalone Python script
-├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
-├── LICENSE                     # MIT License
-│
-├── docs/
-│   ├── PROJECT_REPORT.pdf      # Full project documentation
-│   ├── PRESENTATION.pdf        # Slides for presentation
-│   └── DEMO_VIDEO.mp4          # Demo video
-│
-├── examples/
-│   ├── sample_input.mp4        # Example input video
-│   └── sample_output.mp4       # Example output video
-│
-└── tests/
-    ├── test_scene_detection.py # Unit tests
-    ├── test_audio_analysis.py
-    └── test_video_editing.py
+
+
 ```
 
 ---
@@ -414,7 +399,7 @@ If you use this tool in your research or project, please cite:
 
 ```bibtex
 @software{ai_film_editing_tool_2026,
-  author = {Your Name},
+  author = {Khaleel},
   title = {AI-Powered Film Editing Tool: Intelligent Video Editing Using Multi-Modal AI Analysis},
   year = {2026},
   publisher = {GitHub},
@@ -424,12 +409,6 @@ If you use this tool in your research or project, please cite:
 
 ---
 
-## 📞 Contact
-
-**Student:** [Your Name]  
-**Email:** [Your Email]  
-**GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-**LinkedIn:** [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
 
 ### Questions or Issues?
 - 💬 **GitHub Issues**: For bug reports and feature requests
